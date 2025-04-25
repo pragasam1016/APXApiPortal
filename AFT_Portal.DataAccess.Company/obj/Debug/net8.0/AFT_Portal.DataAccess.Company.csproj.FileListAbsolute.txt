@@ -1,0 +1,16 @@
+C:\Learning\AFT_Portal\AFT_Portal.DataAccess.Company\obj\Debug\net8.0\AFT_Portal.DataAccess.Company.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\AFT_Portal\AFT_Portal.DataAccess.Company\obj\Debug\net8.0\AFT_Portal.DataAccess.Company.AssemblyInfoInputs.cache
+C:\Learning\AFT_Portal\AFT_Portal.DataAccess.Company\obj\Debug\net8.0\AFT_Portal.DataAccess.Company.AssemblyInfo.cs
+C:\Learning\AFT_Portal\AFT_Portal.DataAccess.Company\obj\Debug\net8.0\AFT_Portal.DataAccess.Company.csproj.CoreCompileInputs.cache
+C:\Learning\AFT_Portal\AFT_Portal.DataAccess.Company\obj\Debug\net8.0\AFT_Portal.DataAccess.Company.sourcelink.json
+C:\Learning\AFT_Portal\AFT_Portal.DataAccess.Company\obj\Debug\net8.0\AFT_Portal.DataAccess.Company.csproj.AssemblyReference.cache
+C:\Learning\AFT_Portal\AFT_Portal.DataAccess.Company\bin\Debug\net8.0\AFT_Portal.DataAccess.Company.deps.json
+C:\Learning\AFT_Portal\AFT_Portal.DataAccess.Company\bin\Debug\net8.0\AFT_Portal.DataAccess.Company.dll
+C:\Learning\AFT_Portal\AFT_Portal.DataAccess.Company\bin\Debug\net8.0\AFT_Portal.DataAccess.Company.pdb
+C:\Learning\AFT_Portal\AFT_Portal.DataAccess.Company\bin\Debug\net8.0\AFT_Portal.Model.Company.dll
+C:\Learning\AFT_Portal\AFT_Portal.DataAccess.Company\bin\Debug\net8.0\AFT_Portal.Model.Company.pdb
+C:\Learning\AFT_Portal\AFT_Portal.DataAccess.Company\obj\Debug\net8.0\AFT_Port.BBFE60F5.Up2Date
+C:\Learning\AFT_Portal\AFT_Portal.DataAccess.Company\obj\Debug\net8.0\AFT_Portal.DataAccess.Company.dll
+C:\Learning\AFT_Portal\AFT_Portal.DataAccess.Company\obj\Debug\net8.0\refint\AFT_Portal.DataAccess.Company.dll
+C:\Learning\AFT_Portal\AFT_Portal.DataAccess.Company\obj\Debug\net8.0\AFT_Portal.DataAccess.Company.pdb
+C:\Learning\AFT_Portal\AFT_Portal.DataAccess.Company\obj\Debug\net8.0\ref\AFT_Portal.DataAccess.Company.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AFT_Portal.BusinessAccess.Company")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8079740bf1907fdc491de02f36f5d3423096e2b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a75a8895c6cb62fecf36ba0a8fa6d449889c58c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("AFT_Portal.BusinessAccess.Company")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AFT_Portal.BusinessAccess.Company")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

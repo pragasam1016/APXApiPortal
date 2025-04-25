@@ -1,0 +1,12 @@
+C:\Learning\AFT_Portal\AFT_Portal.Model.Company\bin\Debug\net8.0\AFT_Portal.Model.Company.deps.json
+C:\Learning\AFT_Portal\AFT_Portal.Model.Company\bin\Debug\net8.0\AFT_Portal.Model.Company.dll
+C:\Learning\AFT_Portal\AFT_Portal.Model.Company\bin\Debug\net8.0\AFT_Portal.Model.Company.pdb
+C:\Learning\AFT_Portal\AFT_Portal.Model.Company\obj\Debug\net8.0\AFT_Portal.Model.Company.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\AFT_Portal\AFT_Portal.Model.Company\obj\Debug\net8.0\AFT_Portal.Model.Company.AssemblyInfoInputs.cache
+C:\Learning\AFT_Portal\AFT_Portal.Model.Company\obj\Debug\net8.0\AFT_Portal.Model.Company.AssemblyInfo.cs
+C:\Learning\AFT_Portal\AFT_Portal.Model.Company\obj\Debug\net8.0\AFT_Portal.Model.Company.csproj.CoreCompileInputs.cache
+C:\Learning\AFT_Portal\AFT_Portal.Model.Company\obj\Debug\net8.0\AFT_Portal.Model.Company.sourcelink.json
+C:\Learning\AFT_Portal\AFT_Portal.Model.Company\obj\Debug\net8.0\AFT_Portal.Model.Company.dll
+C:\Learning\AFT_Portal\AFT_Portal.Model.Company\obj\Debug\net8.0\refint\AFT_Portal.Model.Company.dll
+C:\Learning\AFT_Portal\AFT_Portal.Model.Company\obj\Debug\net8.0\AFT_Portal.Model.Company.pdb
+C:\Learning\AFT_Portal\AFT_Portal.Model.Company\obj\Debug\net8.0\ref\AFT_Portal.Model.Company.dll

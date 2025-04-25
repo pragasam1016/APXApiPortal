@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AFT_Portal.DataAccess.Company\AFT_Portal.DataAccess.Company.csproj" />
+    <ProjectReference Include="..\AFT_Portal.Model.Company\AFT_Portal.Model.Company.csproj" />
+  </ItemGroup>
+
 </Project>
