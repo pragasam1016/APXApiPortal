@@ -1,6 +1,6 @@
 ﻿namespace AFT_Portal.DataAccess.Company
 {
-    public class Class1
+    public class CompanyDataAccess
     {
 
     }

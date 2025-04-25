@@ -1,6 +1,6 @@
 ﻿namespace AFT_Portal.BusinessAccess.Company
 {
-    public class Class1
+    public class CompanyBusinessAccess
     {
 
     }
